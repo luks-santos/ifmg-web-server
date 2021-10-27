@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1633904555 source:/home/punk/proj/c++/trabalho_redes_01/src/databuf.cpp
+	"databuf.h"
+
+1633883075 /home/punk/proj/c++/trabalho_redes_01/include/databuf.h
+	<string.h>
+
+1634000227 source:/home/punk/proj/c++/trabalho_redes_01/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1633917656 /home/punk/proj/c++/trabalho_redes_01/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<string.h>
+	<iostream>
+	<unistd.h>
+
+1634000201 /home/punk/proj/c++/trabalho_redes_01/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1634041673 /home/punk/proj/c++/trabalho_redes_01/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1633880787 /home/punk/proj/c++/trabalho_redes_01/include/mimetype.h
+	<string>
+
+1633880775 source:/home/punk/proj/c++/trabalho_redes_01/src/mimetype.cpp
+	"mimetype.h"
+
+1634000214 source:/home/punk/proj/c++/trabalho_redes_01/src/httpServer.cpp
+	"httpServer.h"
+
+1634044684 source:/home/punk/proj/c++/trabalho_redes_01/src/Socket.cpp
+	"Socket.h"
+
+1634044767 source:/home/punk/proj/c++/trabalho_redes_01/src/serverResponse.cpp
+	"serverResponse.h"
+

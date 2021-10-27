@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1634000227 source:/home/punk/proj/c++/trabalho_redes_01/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1633917656 /home/punk/proj/c++/trabalho_redes_01/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<string.h>
+	<iostream>
+	<unistd.h>
+
+1634000201 /home/punk/proj/c++/trabalho_redes_01/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1634041673 /home/punk/proj/c++/trabalho_redes_01/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1633880787 /home/punk/proj/c++/trabalho_redes_01/include/mimetype.h
+	<string>
+
+1634000214 source:/home/punk/proj/c++/trabalho_redes_01/src/httpServer.cpp
+	"httpServer.h"
+
+1633880775 source:/home/punk/proj/c++/trabalho_redes_01/src/mimetype.cpp
+	"mimetype.h"
+
+1634044767 source:/home/punk/proj/c++/trabalho_redes_01/src/serverResponse.cpp
+	"serverResponse.h"
+
+1634044684 source:/home/punk/proj/c++/trabalho_redes_01/src/Socket.cpp
+	"Socket.h"
+
+1634157426 source:/home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1634154958 /home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+
+1634074076 /home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1634074558 /home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1634380155 /home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/include/mimetype.h
+	<string>
+
+1634156230 source:/home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/src/httpServer.cpp
+	"httpServer.h"
+
+1634073852 source:/home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/src/mimetype.cpp
+	"mimetype.h"
+
+1634156922 source:/home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/src/serverResponse.cpp
+	"serverResponse.h"
+
+1634157032 source:/home/punk/proj/c++/JorgeMurilo-LucasBatista-MarcoAntonio/src/Socket.cpp
+	"Socket.h"
+
+1634072225 source:/home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1634072819 /home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+
+1634074075 /home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1634074558 /home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1634073369 /home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/include/mimetype.h
+	<string>
+
+1634075442 source:/home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/src/httpServer.cpp
+	"httpServer.h"
+
+1634073851 source:/home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/src/mimetype.cpp
+	"mimetype.h"
+
+1634075383 source:/home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/src/serverResponse.cpp
+	"serverResponse.h"
+
+1634073880 source:/home/jorge/Downloads/JorgeMurilo-LucasBatista-MarcoAntonio/src/Socket.cpp
+	"Socket.h"
+
+1634157427 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1634154958 /home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+
+1634074076 /home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1634074558 /home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1634073370 /home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/include/mimetype.h
+	<string>
+
+1634156231 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/src/httpServer.cpp
+	"httpServer.h"
+
+1634073852 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/src/mimetype.cpp
+	"mimetype.h"
+
+1634156923 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/src/serverResponse.cpp
+	"serverResponse.h"
+
+1634157033 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/src/Socket.cpp
+	"Socket.h"
+
