@@ -176,5 +176,6 @@ string serverResponse::getStatus(int resp, int len, string extension) {
                 "Connection: Close\r\n"
                 "Content-type: " + mim.getType(extension) + "; charset=UTF-8\r\n\r\n";
     }
+    cout << text << endl;
     return text;
 }

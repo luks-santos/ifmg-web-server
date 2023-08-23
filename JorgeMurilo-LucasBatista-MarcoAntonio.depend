@@ -159,3 +159,43 @@
 1634157033 source:/home/marco/Documentos/JorgeMurilo-LucasBatista-MarcoAntonio/src/Socket.cpp
 	"Socket.h"
 
+1692751601 source:/home/punkk/workspace/C++/servidor-web/main.cpp
+	<iostream>
+	"Socket.h"
+	"httpServer.h"
+
+1692751601 /home/punkk/workspace/C++/servidor-web/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+
+1692751601 /home/punkk/workspace/C++/servidor-web/include/httpServer.h
+	<thread>
+	"Socket.h"
+	"serverResponse.h"
+
+1692751601 /home/punkk/workspace/C++/servidor-web/include/serverResponse.h
+	"Socket.h"
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	"mimetype.h"
+
+1692751601 /home/punkk/workspace/C++/servidor-web/include/mimetype.h
+	<string>
+
+1692751601 source:/home/punkk/workspace/C++/servidor-web/src/httpServer.cpp
+	"httpServer.h"
+
+1692751601 source:/home/punkk/workspace/C++/servidor-web/src/mimetype.cpp
+	"mimetype.h"
+
+1692751601 source:/home/punkk/workspace/C++/servidor-web/src/Socket.cpp
+	"Socket.h"
+
+1692788121 source:/home/punkk/workspace/C++/servidor-web/src/serverResponse.cpp
+	"serverResponse.h"
+

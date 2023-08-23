@@ -20,7 +20,7 @@ using namespace std;
 int main()
 {
     string dir;
-    cout<<"Digite o caminho: ";
+    cout<<"Digite o caminho (./pasta): ";
 
     //exemplos de entrada:
     //1 - pasta dentro do servidor: ./pasta ou pasta
